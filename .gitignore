@@ -1,4 +1,4 @@
-/fake-api/dist
-/fake-api/node_modules
-
 /website/node_modules
+
+/fake-api/node_modules
+/fake-api/dist
